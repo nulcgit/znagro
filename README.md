@@ -1,2 +1,3 @@
-# znagro
-Znagro - knowledge aggregator for the myaoogle system / Знагро - сборник знаний для системы Мяугли
+# Znagro
+
+Znagro - knowledge aggregator for the Myaoogle system / Знагро - сборник знаний для системы Мяугли
